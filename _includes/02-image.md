@@ -1,0 +1,1 @@
+![Pickles the Cat](https://octodex.github.com/images/yaktocat.png)
